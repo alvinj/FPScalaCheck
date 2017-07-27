@@ -20,3 +20,9 @@ Here’s a brief description of the files in this project:
 - `IncreaseRandomlySpec` is the property test class that tests the `increaseRandomly` function
 
 
+## Author
+
+Alvin Alexander    
+http://alvinalexander.com
+
+
